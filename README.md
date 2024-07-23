@@ -1,6 +1,6 @@
 <h1>Wide Coverage Location</h1>
 <br>
-<h2>Projeto desenvolvido com <a src="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
+<h2>Projeto desenvolvido com <a href="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
 <br>
 <h2>Tecnologias utilizadas:</h2>
 <br>
